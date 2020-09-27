@@ -707,10 +707,7 @@ footer li:hover {
 }
 
 /* Media */
-@media only screen 
-  and (min-device-width: 375px) 
-  and (max-device-width: 812px) 
-  and (-webkit-min-device-pixel-ratio: 3) {
+@media only screen and (min-width: 375px) and (max-width: 812px) {
   header {
     display: grid;
     grid-template-columns: 1fr;
@@ -786,8 +783,6 @@ footer li:hover {
         margin: 0px;
         padding: 0px;
         height: auto;
-        flex-direction: column;
-        flex-wrap: nowrap;
     }
     
     .mostpop-pic1,
@@ -943,23 +938,16 @@ article h3 {
     
 }
 
-@media only screen 
-  and (min-device-width: 813px) 
-  and (max-device-width: 1024px) 
-  and (-webkit-min-device-pixel-ratio: 3) {
+@media only screen and (min-device-width: 813px) and (max-device-width: 1024px) {
         
 }
  
     
-@media only screen 
-  and (min-device-width: 1025px) 
-  and (max-device-width: 1366px) 
-  and (-webkit-min-device-pixel-ratio: 3) {
+@media only screen and (min-device-width: 1025px) and (max-device-width: 1366px) {
         
 }
     
     
-@media screen 
-  and (min-device-width: 1367px) 
-  and (max-device-width: 1600px) 
-  and (-webkit-min-device-pixel-ratio: 3)
+@media screen and (min-device-width: 1367px) and (max-device-width: 1600px) {
+    
+}
