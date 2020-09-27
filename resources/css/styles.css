@@ -257,7 +257,7 @@ aside h3 {
 .mostpop-pic1 {  
   display: grid;
   grid-template-columns: 145px 200px;
-  background-image: url(imgcss/hebergements/2_large/emile-guillemot-Bj_rcSC5XfE-unsplash.jpg);
+  background-image: url(img/hebergements/emile-guillemot-Bj_rcSC5XfE-unsplash.jpg);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: bottom 0px right 200px;
@@ -275,7 +275,7 @@ aside h3 {
 .mostpop-pic2 {  
   display: grid;
   grid-template-columns: 145px 200px;
-  background-image: url(imgcss/hebergements/2_large/aw-creative-VGs8z60yT2c-unsplash.jpg);
+  background-image: url(img/hebergements/aw-creative-VGs8z60yT2c-unsplash.jpg);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: bottom 0px right 200px;
@@ -293,7 +293,7 @@ aside h3 {
 .mostpop-pic3 {  
   display: grid;
   grid-template-columns: 145px 200px;
-  background-image: url(imgcss/hebergements/2_large/febrian-zakaria-sjvU0THccQA-unsplash.jpg);
+  background-image: url(img/hebergements/febrian-zakaria-sjvU0THccQA-unsplash.jpg);
   background-size: 150px;
   background-repeat: no-repeat;
   background-position: left bottom;
@@ -358,7 +358,7 @@ main h3 {
 .accom-pic1 {  
   display: grid;
   grid-template-rows: 120px 80px;
-  background-image: url(imgcss/hebergements/2_large/marcus-loke-WQJvWU_HZFo-unsplash.jpg);
+  background-image: url(img/hebergements/marcus-loke-WQJvWU_HZFo-unsplash.jpg);
   background-size: 245px;
   background-repeat: no-repeat;
   background-position: bottom 40px right 0px;
@@ -377,7 +377,7 @@ main h3 {
 .accom-pic2 {  
   display: grid;
   grid-template-rows: 120px 80px;
-  background-image: url(imgcss/hebergements/2_large/nicate-lee-kT-ZyaiwBe0-unsplash.jpg);
+  background-image: url(img/hebergements/nicate-lee-kT-ZyaiwBe0-unsplash.jpg);
   background-size: 245px;
   background-repeat: no-repeat;
   background-position: bottom 80px right 0px;
@@ -395,7 +395,7 @@ main h3 {
 .accom-pic3 {  
   display: grid;
   grid-template-rows: 120px 80px;
-  background-image: url(imgcss/hebergements/2_large/reisetopia-B8WIgxA_PFU-unsplash.jpg);
+  background-image: url(img/hebergements/reisetopia-B8WIgxA_PFU-unsplash.jpg);
   background-size: 245px;
   background-repeat: no-repeat;
   background-position: bottom 70px right 0px;
@@ -413,7 +413,7 @@ main h3 {
 .accom-pic4 {  
   display: grid;
   grid-template-rows: 120px 80px;
-  background-image: url(imgcss/hebergements/2_large/febrian-zakaria-M6S1WvfW68A-unsplash.jpg);
+  background-image: url(img/hebergements/febrian-zakaria-M6S1WvfW68A-unsplash.jpg);
   background-size: 245px;
   background-repeat: no-repeat;
   background-position: bottom 0px right 0px;
@@ -431,7 +431,7 @@ main h3 {
 .accom-pic5 {  
   display: grid;
   grid-template-rows: 120px 80px;
-  background-image: url(imgcss/hebergements/2_large/annie-spratt-Eg1qcIitAuA-unsplash.jpg);
+  background-image: url(img/hebergements/annie-spratt-Eg1qcIitAuA-unsplash.jpg);
   background-size: 245px;
   background-repeat: no-repeat;
   background-position: bottom 40px right 0px;
@@ -449,7 +449,7 @@ main h3 {
 .accom-pic6 {  
   display: grid;
   grid-template-rows: 120px 80px;
-  background-image: url(imgcss/hebergements/2_large/fred-kleber-gTbaxaVLvsg-unsplash.jpg);
+  background-image: url(img/hebergements/fred-kleber-gTbaxaVLvsg-unsplash.jpg);
   background-size: 245px;
   background-repeat: no-repeat;
   background-position: bottom 50px right 0px;
@@ -467,7 +467,7 @@ main h3 {
 .accom-pic7 {  
   display: grid;
   grid-template-rows: 120px 80px;
-  background-image: url(imgcss/hebergements/2_large/febrian-zakaria-sjvU0THccQA-unsplash.jpg);
+  background-image: url(img/hebergements/febrian-zakaria-sjvU0THccQA-unsplash.jpg);
   background-size: 245px;
   background-repeat: no-repeat;
   background-position: bottom 0px right 0px;
@@ -485,7 +485,7 @@ main h3 {
 .accom-pic8 {  
   display: grid;
   grid-template-rows: 120px 80px;
-  background-image: url(imgcss/hebergements/2_large/aw-creative-VGs8z60yT2c-unsplash.jpg);
+  background-image: url(img/hebergements/aw-creative-VGs8z60yT2c-unsplash.jpg);
   background-size: 245px;
   background-repeat: no-repeat;
   background-position: bottom 40px right 0px;
@@ -503,7 +503,7 @@ main h3 {
 .accom-pic9 {  
   display: grid;
   grid-template-rows: 120px 80px;
-  background-image: url(imgcss/hebergements/2_large/emile-guillemot-Bj_rcSC5XfE-unsplash.jpg);
+  background-image: url(img/hebergements/emile-guillemot-Bj_rcSC5XfE-unsplash.jpg);
   background-size: 245px;
   background-repeat: no-repeat;
   background-position: bottom 40px right 0px;
@@ -574,7 +574,7 @@ article h3 {
   grid-area: 1 / 1 / 3 / 2;
   display: grid;
   grid-template-rows: 400px 45px;
-  background-image: url(imgcss/activites/reno-laithienne-QUgJhdY5Fyk-unsplash.jpg);
+  background-image: url(img/activites/reno-laithienne-QUgJhdY5Fyk-unsplash.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -591,7 +591,7 @@ article h3 {
   grid-area: 1 / 2 / 2 / 3;
   display: grid;
   grid-template-rows: 185px 45px;
-  background-image: url(imgcss/activites/kilyan-sockalingum-NR8-cBCN3aI-unsplash.jpg);
+  background-image: url(img/activites/kilyan-sockalingum-NR8-cBCN3aI-unsplash.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -607,7 +607,7 @@ article h3 {
   grid-area: 2 / 2 / 3 / 3;
   display: grid;
   grid-template-rows: 120px 45px;
-  background-image: url(imgcss/activites/kevin-hikari-rV_Qd1l-VXg-unsplash%20copy.jpg);
+  background-image: url(img/activites/kevin-hikari-rV_Qd1l-VXg-unsplash%20copy.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;    
@@ -623,7 +623,7 @@ article h3 {
   grid-area: 1 / 3 / 3 / 4;
   display: grid;
   grid-template-rows: 400px 45px;
-  background-image: url(imgcss/activites/paul-hermann-QFTrLdQIRhI-unsplash%20copy.jpg);
+  background-image: url(img/activites/paul-hermann-QFTrLdQIRhI-unsplash%20copy.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -639,7 +639,7 @@ article h3 {
   grid-area: 1 / 4 / 2 / 5;
   display: grid;
   grid-template-rows: 185px 45px; 
-  background-image: url(imgcss/activites/florian-wehde-xW9e8gdotxI-unsplash%20copy.jpg);
+  background-image: url(img/activites/florian-wehde-xW9e8gdotxI-unsplash%20copy.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -655,7 +655,7 @@ article h3 {
   grid-area: 2 / 4 / 3 / 5;
   display: grid;
   grid-template-rows: 120px 45px;
-  background-image: url(imgcss/activites/lena-paulin-wH2-EJoDcV0-unsplash%20copy.jpg);
+  background-image: url(img/activites/lena-paulin-wH2-EJoDcV0-unsplash%20copy.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
