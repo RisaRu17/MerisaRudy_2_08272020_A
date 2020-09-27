@@ -205,8 +205,9 @@ nav button:target {
 
 /*info blurb*/
 p {
-  margin: 0px auto 30px 30px;
-  width: 350px;
+  margin: 30px 30px 30px 30px;
+  width: 75%;
+  float: left;
 }
 
 .fa-info-circle {
