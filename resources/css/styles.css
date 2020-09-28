@@ -707,7 +707,7 @@ footer li:hover {
 }
 
 /* Media */
-@media only screen and (min-width: 375px) and (max-width: 812px) {
+@media only screen and (min-width: 375px) and (max-width: 1024px) {
   header {
     display: grid;
     grid-template-columns: 1fr;
@@ -938,7 +938,8 @@ article h3 {
     
 }
 
-@media only screen and (min-device-width: 813px) and (max-device-width: 1024px) {
+@media only screen and (min-width: 813px) and (max-width: 1024px) {
+    aside {
         
 }
  
