@@ -151,7 +151,15 @@ input:focus {
   border-top-right-radius: 15px;
   margin: 0px;
 }
-
+    
+  span.icon {
+      display: none;
+      color: white;
+}
+  span.text {
+      display: inline-block;
+      color: white;
+}
 
 /*NAV*/
 nav {
@@ -784,6 +792,16 @@ footer li:hover {
     section {
       margin-top: 10px;
     }
+    
+    span.icon {
+        display: inline-block;
+        color: white;
+    }
+    span.text {
+        display: none;
+        color: white;
+    }
+    
     nav {
       flex-flow: row wrap;
       align-content: flex-start;
