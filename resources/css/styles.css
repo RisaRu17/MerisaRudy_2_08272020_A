@@ -742,7 +742,31 @@ footer li:hover {
 }
 
 /* Media */
-@media only screen and (min-width: 375px) and (max-width: 1024px) {
+@media only screen and (min-width: 320px) and (max-width: 475px) {
+   section form {
+      width: 315px;
+    }
+    section .fa-map-marker-alt {
+    font-size: 20px;
+    margin: 0px 3px 0px 10px;
+    padding: 0px;
+}
+    input[type=text] {
+      width: 215px;
+    }
+    input:focus {
+        outline: none;
+    }
+    .searchbutton {
+      width: 48px;
+      border-bottom-right-radius: 15px;
+      border-top-right-radius: 15px;
+      margin: 0px;
+    }
+    
+}
+
+@media only screen and (min-width: 320px) and (max-width: 1024px) {
   header {
     display: grid;
     grid-template-columns: 1fr;
@@ -864,11 +888,15 @@ footer li:hover {
     
     .showmorebtn {
         align-content: center;
+        margin: 20px auto 0px 30px;
+        padding-top: 20px;
     }
     
     .flexmain {
       margin: 0px 0px;
       padding: 15px;
+      height: 1850px;
+      overflow: hidden;
     }
     
     .accom-text-box {
@@ -1006,6 +1034,7 @@ article h3 {
     }
     article {
         height: auto;
+        margin-bottom: 40px;
     }
     .grid {
       grid-template-rows: 235px 165px 235px 165px;
