@@ -24,6 +24,10 @@ p {
     color: #0065FC;
 }
 
+.fa-search {
+    color: white;
+}
+
 /*Header*/
 header {
   display: grid;
@@ -107,7 +111,7 @@ section form {
   height: 50px;
 }
 
-section .fas {
+section .fa-map-marker-alt {
     font-size: 20px;
     margin: 0px 12px 0px 17px;
     padding: 0px;
@@ -152,6 +156,9 @@ input:focus {
   margin: 0px;
 }
     
+span.fas {
+    color: white;
+}
   span.icon {
       display: none;
       color: white;
