@@ -107,7 +107,7 @@ section form {
   height: 50px;
 }
 
-.fas {
+section .fas {
     font-size: 20px;
     margin: 0px 12px 0px 17px;
     padding: 0px;
@@ -184,7 +184,7 @@ nav button {
 } 
 
 nav button:hover {
-  box-shadow: inset 200px 0 0 0 #DEEBFF;
+  box-shadow: inset 250px 0 0 0 #DEEBFF;
   color: #0065FC;
 }
 nav button:active {
@@ -201,6 +201,26 @@ nav button:target {
   outline: none;
   color: #0065FC;
   background-color: #DEEBFF;
+}
+
+nav .fas {
+    margin: 0px 5px 0px 0px;
+    padding: 0px;
+}
+nav .fas:hover {
+  color: #0065FC;
+}
+nav .fas:active {
+  outline: none;
+  color: #0065FC;
+}
+nav .fas:focus {
+  outline: none;
+  color: #0065FC;
+}
+nav .fas:target {
+  outline: none;
+  color: #0065FC;
 }
 
 /*info blurb*/
