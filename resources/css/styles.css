@@ -846,12 +846,14 @@ footer li:hover {
       margin: 0px;
       border-radius: 0px;
       padding: 20px;
+      grid-template-rows: 10% 90%;
     }
     
     .flexaside {
-    margin: 0px;
-    padding: 0px;
-    grid-gap: 30px;
+        margin: 20px 0px;
+        padding: 0px;
+        grid-gap: 30px;
+        height: auto;
     }
     
     .mostpop-pic1 {
@@ -895,7 +897,7 @@ footer li:hover {
     .flexmain {
       margin: 0px 0px;
       padding: 15px;
-      height: 1850px;
+      height 1800px;
       overflow: hidden;
     }
     
@@ -931,7 +933,7 @@ footer li:hover {
     
     .showmorebtn {
         margin: 20px 0px;
-        padding: 0px;
+        padding: 10px 0px 0px 0px;
     }
     
 article {
