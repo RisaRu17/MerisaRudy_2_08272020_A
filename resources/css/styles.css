@@ -870,12 +870,12 @@ article h3 {
 }
 
 .grid {
-  display: grid;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
   width: 100%;
   height: auto;
   grid-gap: 30px;
-  grid-template-columns: 335px;
-  grid-template-rows: repeat(6, 190px);
   align-content: center;
   justify-content: center;
   margin: 0px 0px;
@@ -886,42 +886,36 @@ article h3 {
     }
 
 .act-pic1 { 
-  grid-area: 1;
   grid-template-rows: 135px 55px;
   background-size: 335px;
   height: 190px;
   width: 335px;
 }
 .act-pic2 { 
-  grid-area: 2;
   grid-template-rows: 135px 55px;
   background-size: 335px;
   height: 190px;
   width: 335px;
 }
 .act-pic3 { 
-  grid-area: 3;
   grid-template-rows: 135px 55px;
   background-size: 335px;
   height: 190px;
   width: 335px;
 }
 .act-pic4 { 
-  grid-area: 4;
   grid-template-rows: 135px 55px;
   background-size: 335px;
   height: 190px;
   width: 335px;
 }
 .act-pic5 { 
-  grid-area: 5;
   grid-template-rows: 135px 55px;
   background-size: 335px;
   height: 190px;
   width: 335px;
 }
 .act-pic6 { 
-  grid-area: 6;
   grid-template-rows: 135px 55px;
   background-size: 335px;
   height: 190px;
@@ -937,18 +931,13 @@ article h3 {
     }
     
 }
-
-@media only screen and (min-width: 813px) and (max-width: 1024px) {
-    aside {
-        
-}
  
     
-@media only screen and (min-device-width: 1025px) and (max-device-width: 1366px) {
+@media only screen and (min-width: 1025px) and (max-width: 1366px) {
         
 }
     
     
-@media screen and (min-device-width: 1367px) and (max-device-width: 1600px) {
+@media screen and (min-width: 1367px) and (max-width: 1600px) {
     
 }
