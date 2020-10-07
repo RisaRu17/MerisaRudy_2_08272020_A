@@ -199,9 +199,13 @@ nav button {
 } 
 
 nav button:hover {
-  box-shadow: inset 250px 0 0 0 #DEEBFF;
+  box-shadow: inset 200px 0 0 0 #DEEBFF;
   color: #0065FC;
 }
+#signup button:hover {
+  box-shadow: inset 130px 0 0 0 #DEEBFF;
+}
+
 nav button:active {
   outline: none;
   color: #0065FC;
