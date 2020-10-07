@@ -847,12 +847,13 @@ footer li:hover {
       margin: 0px;
       border-radius: 0px;
       padding: 20px;
-      grid-template-rows: 10% 90%;
+      grid-template-rows: 5% 95%;
+      height: auto;
     }
     
     .flexaside {
-        margin: 20px 0px;
-        padding: 0px;
+        margin: 0px;
+        padding: 20px 0px;
         grid-gap: 30px;
         height: auto;
     }
@@ -878,28 +879,25 @@ footer li:hover {
     main {
       float: none;
       display: grid;
-      grid-template-rows: 5% 90% 5%;
+      grid-template-rows: 2.5% 95% 2.5%;
       grid-template-columns: 100%;
-      grid-gap: 25px;
       width: 100%;
       height: auto;
       margin: 0px;
       background: white;
       border-radius: 0px;
-      padding: 40px;
+      padding: 20px 20px 40px 20px;
     }
     
     .showmorebtn {
         align-content: center;
-        margin: 20px auto 0px 30px;
-        padding-top: 20px;
+        margin:  20px 0px 0px 30px;
     }
     
     .flexmain {
-      margin: 0px 0px;
-      padding: 15px;
-      height 1800px;
-      overflow: hidden;
+      margin: 0px 0px 0px 20px;
+      height: auto;
+      overflow: none;
     }
     
     .accom-text-box {
@@ -911,12 +909,17 @@ footer li:hover {
     .accom-pic3,
     .accom-pic4,
     .accom-pic5,
-    .accom-pic6,
+    .accom-pic6
+    {
+        background-size: 335px;
+        width: 335px;
+    }
+    
+    
     .accom-pic7,
     .accom-pic8,
     .accom-pic9 {
-        background-size: 335px;
-        width: 335px;
+        display: none;
     }
     
     .accom-pic1 {
@@ -945,8 +948,8 @@ article {
   grid-gap: 25px;
   height: auto;
   width: 100%;
-  padding: 60px 40px 60px 40px;
-  margin: 20px 0px;
+  padding: 20px 20px 60px 20px;
+  margin: 0px;
   align-content: center;
 }
 article h3 {
