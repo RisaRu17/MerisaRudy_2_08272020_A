@@ -901,7 +901,7 @@ footer li:hover {
     .flexmain {
       margin: 0px 0px 0px 20px;
       height: auto;
-      overflow: none;
+      overflow:visible;
     }
     
     .accom-text-box {
