@@ -414,7 +414,7 @@ main h3 {
     text-align: justify;
     align-content: center;
     text-decoration: none;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 12px 0 rgba(0, 0, 0, 0.19);
+    box-shadow: 0 13px 8px 0 rgba(0, 0, 0, 0.2), 0 16px 12px 0 rgba(0, 0, 0, 0.19);
     border: 5px white solid;
     border-bottom: none;
 }
@@ -432,7 +432,7 @@ main h3 {
     justify-content: center;
     align-content: center;
     text-decoration: none;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 12px 0 rgba(0, 0, 0, 0.19);
+    box-shadow: 0 13px 8px 0 rgba(0, 0, 0, 0.2), 0 16px 12px 0 rgba(0, 0, 0, 0.19);
     border: 5px white solid;
     border-bottom: none;
 }
@@ -450,7 +450,7 @@ main h3 {
     justify-content: center;
     align-content: center;
     text-decoration: none;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 12px 0 rgba(0, 0, 0, 0.19);
+    box-shadow: 0 13px 8px 0 rgba(0, 0, 0, 0.2), 0 16px 12px 0 rgba(0, 0, 0, 0.19);
     border: 5px white solid;
     border-bottom: none;
 }
@@ -468,7 +468,7 @@ main h3 {
     justify-content: center;
     align-content: center;
     text-decoration: none;
-    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.2), 0 6px 12px 0 rgba(0, 0, 0, 0.19);
+    box-shadow: 0 13px 8px 0 rgba(0, 0, 0, 0.2), 0 16px 12px 0 rgba(0, 0, 0, 0.19);
     border: 5px white solid;
     border-bottom: none;
 }
@@ -486,7 +486,7 @@ main h3 {
     justify-content: center;
     align-content: center;
     text-decoration: none;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 12px 0 rgba(0, 0, 0, 0.19);
+    box-shadow: 0 13px 8px 0 rgba(0, 0, 0, 0.2), 0 16px 12px 0 rgba(0, 0, 0, 0.19);
     border: 5px white solid;
     border-bottom: none;
 }
@@ -504,7 +504,7 @@ main h3 {
     justify-content: center;
     align-content: center;
     text-decoration: none;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 12px 0 rgba(0, 0, 0, 0.19);
+    box-shadow: 0 13px 8px 0 rgba(0, 0, 0, 0.2), 0 16px 12px 0 rgba(0, 0, 0, 0.19);
     border: 5px white solid;
     border-bottom: none;
 }
@@ -522,7 +522,7 @@ main h3 {
     justify-content: center;
     align-content: center;
     text-decoration: none;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 12px 0 rgba(0, 0, 0, 0.19);
+    box-shadow: 0 13px 8px 0 rgba(0, 0, 0, 0.2), 0 16px 12px 0 rgba(0, 0, 0, 0.19);
     border: 5px white solid;
     border-bottom: none;
 }
@@ -540,7 +540,7 @@ main h3 {
     justify-content: center;
     align-content: center;
     text-decoration: none;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 12px 0 rgba(0, 0, 0, 0.19);
+    box-shadow: 0 13px 8px 0 rgba(0, 0, 0, 0.2), 0 16px 12px 0 rgba(0, 0, 0, 0.19);
     border: 5px white solid;
     border-bottom: none;
 }
@@ -558,7 +558,7 @@ main h3 {
     justify-content: center;
     align-content: center;
     text-decoration: none;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 12px 0 rgba(0, 0, 0, 0.19);
+    box-shadow: 0 13px 8px 0 rgba(0, 0, 0, 0.2), 0 16px 12px 0 rgba(0, 0, 0, 0.19);
     border: 5px white solid;
     border-bottom: none;
 }
@@ -610,7 +610,7 @@ article h3 {
     color: black;
     width: 300px;
     border-radius: 0px 0px 15px 15px;
-    padding: 10px;
+    padding: 13px;
 }
 
 .act-pic1 {
@@ -629,7 +629,6 @@ article h3 {
     text-decoration: none;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 12px 0 rgba(0, 0, 0, 0.19);
 }
-
 .act-pic2 {
     grid-area: 1 / 2 / 2 / 3;
     display: grid;
@@ -710,6 +709,7 @@ article h3 {
     text-decoration: none;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 12px 0 rgba(0, 0, 0, 0.19);
 }
+
 
 article a:hover {
     transform: scale(1.1);
@@ -974,6 +974,7 @@ footer li:hover {
 
     .act-text-box {
         width: 335px;
+        padding: 17px;
     }
 
     .act-pic1 {
